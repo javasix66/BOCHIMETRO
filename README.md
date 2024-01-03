@@ -1,4 +1,5 @@
 BOCHIMETRO-PYTHON PARA PROCESADOR Y GPU AMD.
+________________________________________________
 ![Screenshot_1](https://github.com/javasix66/BOCHIMETRO/assets/62408775/0782d0bc-647d-431f-a51a-a195cb1f5875)
 
 100PRE ON TOP, EJECUTAR MINIMIZADO Y SE PUEDE MOVER POR PANTALLA
