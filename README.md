@@ -3,7 +3,9 @@ ________________________________________________
 ![Screenshot_1](https://github.com/javasix66/BOCHIMETRO/assets/62408775/0782d0bc-647d-431f-a51a-a195cb1f5875)
 
 100PRE ON TOP, EJECUTAR MINIMIZADO Y SE PUEDE MOVER POR PANTALLA
-![BOCHIMETRO](https://github.com/javasix66/BOCHIMETRO/assets/62408775/8141513f-dde4-4b6b-8fd5-e15d17faa2f9)
+_______________________________________________
+
+![2024-01-03 14-58-00 (online-video-cutter com) (1)](https://github.com/javasix66/BOCHIMETRO/assets/62408775/e63cbbc7-25f6-45e7-8551-2de9fd679954)
 
 AGREGANDO MAS OPCIONES
 
